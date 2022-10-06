@@ -59,7 +59,7 @@ export default class MyController extends Controller {
 
 > The `declare` avoids override of the exist stimulus property and just define the type for TypeScript.
 
-## Custom properties amd methods
+## Custom properties and methods
 
 Other custom properties is possible to define the TypeScript way
 on the controller class:
